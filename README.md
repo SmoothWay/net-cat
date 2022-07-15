@@ -1,6 +1,8 @@
 ## Description
 This project implements net-cat to create small chat using golang.
 
+<img width="800" src="./screenshot.png" />
+
 ## Usage: how to run?
 
 Clone this repository to your local machine. Then `cd net-cat` and type `go run .`  
